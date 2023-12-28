@@ -9,12 +9,16 @@ this code alpha beta. you can see another Playlist for using this code....!
 
 Follow My Social Media for information about this code 
 
-Facebook =
+Facebook = https://www.facebook.com/ramadhanfattahyahya
 
-instagram = 
+instagram = https://www.instagram.com/@ramadhan_fattah_yahya
 
-Twitter =
+Twitter = https://www.twitter.com/@ramadhan_editor
 
-Discord Community = 
+Discord Community = https://discord.gg/ecEf9F4bVR
 
-Site Official Author = rahadiramadhan.co.id
+Site Official Author = ramadhanfattahyahyadeveloper.com
+
+Site downloads Original = ramadhanfattahyahyadeveloper.com/unityoptimizedpc
+
+Guide this using = coming soon!
